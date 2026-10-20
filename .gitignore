@@ -1,0 +1,7 @@
+.pio/
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.*.old
+managed_components/
+.vscode/
